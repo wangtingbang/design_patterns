@@ -1,9 +1,9 @@
-package me.sigh.designpatterns.structural.bridge;
+package me.sigh.designpatterns.structural.bridge.deprecated;
 
-import me.sigh.designpatterns.structural.bridge.color.Green;
-import me.sigh.designpatterns.structural.bridge.color.Red;
-import me.sigh.designpatterns.structural.bridge.pen.BrushPen;
-import me.sigh.designpatterns.structural.bridge.pen.FountainPen;
+import me.sigh.designpatterns.structural.bridge.deprecated.color.Green;
+import me.sigh.designpatterns.structural.bridge.deprecated.color.Red;
+import me.sigh.designpatterns.structural.bridge.deprecated.pen.BrushPen;
+import me.sigh.designpatterns.structural.bridge.deprecated.pen.FountainPen;
 
 public class Test {
     public static void main(String[] args) {

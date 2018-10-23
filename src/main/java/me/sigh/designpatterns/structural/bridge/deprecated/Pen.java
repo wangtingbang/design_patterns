@@ -1,4 +1,4 @@
-package me.sigh.designpatterns.structural.bridge;
+package me.sigh.designpatterns.structural.bridge.deprecated;
 
 public abstract class Pen {
 

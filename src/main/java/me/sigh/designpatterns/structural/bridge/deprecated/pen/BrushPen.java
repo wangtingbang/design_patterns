@@ -1,7 +1,7 @@
-package me.sigh.designpatterns.structural.bridge.pen;
+package me.sigh.designpatterns.structural.bridge.deprecated.pen;
 
-import me.sigh.designpatterns.structural.bridge.Color;
-import me.sigh.designpatterns.structural.bridge.Pen;
+import me.sigh.designpatterns.structural.bridge.deprecated.Color;
+import me.sigh.designpatterns.structural.bridge.deprecated.Pen;
 
 public class BrushPen extends Pen {
     @Override protected void setColor(Color color) {

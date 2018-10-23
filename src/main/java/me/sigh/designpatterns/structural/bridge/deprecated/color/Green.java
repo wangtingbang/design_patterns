@@ -1,6 +1,6 @@
-package me.sigh.designpatterns.structural.bridge.color;
+package me.sigh.designpatterns.structural.bridge.deprecated.color;
 
-import me.sigh.designpatterns.structural.bridge.Color;
+import me.sigh.designpatterns.structural.bridge.deprecated.Color;
 
 public class Green implements Color {
     String color;
