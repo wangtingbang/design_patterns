@@ -1,7 +1,7 @@
-package me.sigh.designpatterns.creator.abstractfactory.factory;
+package me.sigh.designpatterns.creational.abstractfactory.factory;
 
-import me.sigh.designpatterns.creator.abstractfactory.AbstractFactory;
-import me.sigh.designpatterns.creator.abstractfactory.Product;
+import me.sigh.designpatterns.creational.abstractfactory.AbstractFactory;
+import me.sigh.designpatterns.creational.abstractfactory.Product;
 
 public class SecondFactory implements AbstractFactory {
     @Override public Product createProductA() {

@@ -1,4 +1,4 @@
-package me.sigh.designpatterns.creator.factorymethod;
+package me.sigh.designpatterns.creational.factorymethod;
 
 public interface Factory {
 

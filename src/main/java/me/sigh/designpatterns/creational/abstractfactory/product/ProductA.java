@@ -1,6 +1,6 @@
-package me.sigh.designpatterns.creator.abstractfactory.product;
+package me.sigh.designpatterns.creational.abstractfactory.product;
 
-import me.sigh.designpatterns.creator.abstractfactory.Product;
+import me.sigh.designpatterns.creational.abstractfactory.Product;
 
 public class ProductA implements Product {
     private String label;

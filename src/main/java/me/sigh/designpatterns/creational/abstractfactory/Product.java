@@ -1,4 +1,4 @@
-package me.sigh.designpatterns.creator.abstractfactory;
+package me.sigh.designpatterns.creational.abstractfactory;
 
 public interface Product {
 

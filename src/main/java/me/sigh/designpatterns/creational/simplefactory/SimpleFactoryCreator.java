@@ -1,7 +1,7 @@
-package me.sigh.designpatterns.creator.simplefactory;
+package me.sigh.designpatterns.creational.simplefactory;
 
-import me.sigh.designpatterns.creator.simplefactory.impl.ProductA;
-import me.sigh.designpatterns.creator.simplefactory.impl.ProductB;
+import me.sigh.designpatterns.creational.simplefactory.impl.ProductA;
+import me.sigh.designpatterns.creational.simplefactory.impl.ProductB;
 
 public class SimpleFactoryCreator {
 

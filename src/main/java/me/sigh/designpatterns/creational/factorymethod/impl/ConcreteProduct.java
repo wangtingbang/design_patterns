@@ -1,6 +1,6 @@
-package me.sigh.designpatterns.creator.factorymethod.impl;
+package me.sigh.designpatterns.creational.factorymethod.impl;
 
-import me.sigh.designpatterns.creator.factorymethod.Product;
+import me.sigh.designpatterns.creational.factorymethod.Product;
 
 public class ConcreteProduct implements Product {
     @Override public void use() {

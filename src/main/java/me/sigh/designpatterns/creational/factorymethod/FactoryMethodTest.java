@@ -1,6 +1,6 @@
-package me.sigh.designpatterns.creator.factorymethod;
+package me.sigh.designpatterns.creational.factorymethod;
 
-import me.sigh.designpatterns.creator.factorymethod.impl.ConcreteFactory;
+import me.sigh.designpatterns.creational.factorymethod.impl.ConcreteFactory;
 
 public class FactoryMethodTest {
 
